@@ -1,0 +1,5 @@
+cb01;Duong Quoc Anh;21 Nguyen Dinh Chieu;1500000;ABC
+cb02;Ha Quang Huy;45 Nguyen Trai;1800000;MNO
+gd03;Truong Dang Ngoc Phuc;115 Hung Vuong;2000000;TUY
+nv04;Le Van Hieu;345 Nguyen Tat Thanh;2500000;JKL
+pbd05;Le Van Ly;123 Thanh Giong;1000000;QWE
